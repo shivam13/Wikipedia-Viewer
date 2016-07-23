@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500);
+body{
+  font-family:'Raleway', sans-serif;
+}
+button{
+
+}
+.wiki{
+  background-color:black;
+  border-radius:10px;
+  color:white;
+}
+img{
+  position: relative;
+  margin:10px;
+}
+.wikimain{
+  margin:20px;
+}
+li{
+  background-color:#f2f2f2;
+  border-radius:0px;
+  color:black;
+  list-style-type: none;
+  padding:20px;
+  margin:5px;
+  border:1px solid;
+}
+a{
+  text-decoration:none;
+  color:black;
+}
+a:hover{
+  text-decoration:none;
+  color:black;
+}
+h4{
+  font-size:30px;
+}
+p{
+  font-size:15px;
+}
+#wikiviewer{
+  background-color:#004466;
+}
+.footer{
+  color:black;
+  font-size:18px;
+}
+h3{
+  font-size:20px;
+}
